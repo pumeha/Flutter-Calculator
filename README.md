@@ -1,3 +1,3 @@
 # simple_calculator
 
-A simple calculator written in flutter project.
+A simple calculator written with flutter.
